@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807690449574",
+    "firebase_url": "https://girliesshoppingapp.firebaseio.com",
+    "project_id": "girliesshoppingapp",
+    "storage_bucket": "girliesshoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807690449574:android:f93b8382f50f74b318fa67",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807690449574-nfd036age8hhapaftknn4auprf4l4mfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingapp",
+            "certificate_hash": "d63c8acf452eccda27f7a0111f2d113282119793"
+          }
+        },
+        {
+          "client_id": "807690449574-56p4peu876pelgomniark8uk91u75dng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjjrUEMAK5SHT-LmYQpZmaKouT_9Xhq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807690449574-56p4peu876pelgomniark8uk91u75dng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

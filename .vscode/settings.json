@@ -1,0 +1,33 @@
+{
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Source Code Pro",
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "editor.tabSize": 4,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "[dart]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "Dart-Code.flutter"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.quickSuggestionsDelay": 5,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.tabCompletion": "on",
+    "editor.suggest.localityBonus": true,
+    "editor.wordBasedSuggestions": true,
+    "editor.parameterHints.enabled": true
+}
